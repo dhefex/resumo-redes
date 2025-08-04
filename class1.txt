@@ -1,0 +1,36 @@
+1 - Como surgiu a internet
+
+O surgimento da internet foi motivado por propósitos militares. Durante a Guerra Fria entre os EUA e a União Soviética, esses dois países disputavam avanços tecnológicos em diversas áreas, incluindo a corrida espacial. Foi então que os EUA criaram a ARPANET, uma rede de computadores desenvolvida pela ARPA (Agência de Projetos de Pesquisa Avançada), com o objetivo de garantir uma comunicação segura e descentralizada em casos de ataques nucleares.
+
+O e-mail foi um dos primeiros serviços de comunicação da ARPANET. Na época, as mensagens ficavam arquivadas no próprio computador.
+
+Com o tempo, a internet foi sendo utilizada por universidades para fins educacionais e pesquisas acadêmicas.
+
+Nos anos 90, a internet passou a ser usada para fins comerciais, com a criação da plataforma WWW (World Wide Web).
+
+
+A internet, no início, era apenas infraestrutura  basicamente hardware  e os meios de comunicação se resumiam à transferência de dados e ao e-mail.
+
+O cientista britânico Tim Berners-Lee criou a plataforma World Wide Web, voltada para o público comercial. Nela, era possível subir conteúdos em um computador, e qualquer pessoa com acesso à rede poderia visualizar.
+
+Ele desenvolveu:
+
+O HTML, usado para estruturar textos e criar aplicações simples;
+
+O HTTP, protocolo para transmitir conteúdo dos servidores aos usuários;
+
+O navegador, que permitia visualizar os sites (exemplo: Mosaic).
+
+
+
+
+
+Resumo final:
+
+WWW
+
+HTML
+
+HTTP
+
+Browser (Mosaic) 

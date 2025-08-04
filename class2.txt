@@ -1,0 +1,27 @@
+Classe	Intervalo do primeiro número	Quantidade aproximada de redes
+
+A	0 a 127	128
+B	128 a 191	64
+C	192 a 223	32
+D	224 a 239	16 (Multicast)
+E	240 a 255	16 (Reservado/testes)
+
+
+
+
+
+Observações:
+
+Classes A, B e C são usadas para identificação de redes e são atribuídas pela organização que administra a internet.
+
+Para saber a classe de um IP, basta olhar o primeiro número.
+Exemplo: no IP 192.168.0.1, o número 192 indica que é da Classe C.
+
+Os valores dos octetos em um IP vão de 0 a 255.
+
+Classe D é usada para multicast (transmissão para múltiplos destinatários).
+
+Classe E é reservada para pesquisa e testes.
+
+O IP 127.0.0.1 é reservado para loopback, ou seja, testes locais no próprio computador. 
+
